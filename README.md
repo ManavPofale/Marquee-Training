@@ -1,15 +1,15 @@
-# Landing Page Project
+# Landing Page Project:
 
 A simple responsive landing page built using HTML and CSS.
 
-## Features
+## Features:
 
 - Responsive design
 - Modern UI
 - Clean layout
 - Mobile-friendly
 
-## Technologies Used
+## Technologies Used:
 
 - HTML5
 - CSS3
