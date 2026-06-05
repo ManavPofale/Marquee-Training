@@ -9,12 +9,12 @@ A simple responsive landing page built using HTML and CSS.
 - Clean layout
 - Mobile-friendly
 
-## Technologies Used:
+## Technologies Used
 
 - HTML5
 - CSS3
 
-## Project Structure:
+## Project Structure
 
 project-folder/
 │
