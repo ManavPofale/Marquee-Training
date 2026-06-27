@@ -3,7 +3,6 @@
 A simple responsive landing page built using HTML and CSS.
 
 ## Features:
-
 - Responsive design
 - Modern UI
 - Clean layout
